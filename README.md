@@ -11,8 +11,6 @@ My current main activities:
   
 - I am the faculty member leading the [Duke Digital Venture Challenge](https://sites.duke.edu/digitalventurechallenge/), a tech entrepreneurship competition for Duke students
 
-- I am the founder of [Compass](myskillscompass.com), an AI-based virtual career advisor that provides free, personalized guidance to students and career-changers to identify the right career path for them and build the skills they need to succeed in it
-
 I've previously run large and small industry teams building ML-based products for industries including energy, transportation and agriculture.  I've also developed a [Coursera Specialization on AI Product Management](https://www.coursera.org/specializations/ai-product-management-duke) which provides a beginner-friendly, no-code introduction into machine learning and how to design and build ML-based products.
 
 <!--
