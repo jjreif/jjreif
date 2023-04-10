@@ -1,6 +1,6 @@
 ### Jon Reifschneider 👋
 
-I am a faculty member in Duke University's Pratt School of Engineering and run the [AI Master of Engineering](http://ai.meng.duke.edu) program there.
+I am a faculty member in Duke University's Pratt School of Engineering and run the [AI Master of Engineering](http://ai.meng.duke.edu) program there.  I'm passionate about teaching AI and also using AI to improve teaching & learning.
 
 My current main activities:  
 - I teach graduate courses in:  
